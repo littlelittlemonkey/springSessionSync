@@ -1,2 +1,4 @@
 # springSessionSync
 分布式实现session同步
+
+利用spring-session和redis实现分布式下的session同步
